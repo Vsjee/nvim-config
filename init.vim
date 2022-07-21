@@ -7,7 +7,12 @@
 :set softtabstop=4
 :set mouse=a
 
+<<<<<<< HEAD
 call plug#begin()
+=======
+
+call plug#begin() 
+>>>>>>> be655195308b5b2ff570990aa37ff17e5f521855
 
 Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw 
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
